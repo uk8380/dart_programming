@@ -5,7 +5,7 @@
 //hello world!
 
 main(){
-  print("hello world 1");
+  print("hello world");
   print("types of comments");
 }
 //inline comment
